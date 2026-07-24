@@ -116,8 +116,9 @@
 
     var clearBtn = document.getElementById('clearFilters');
     if (clearBtn) {
-      clearBtn.addEventListener('click', function () {
-        document.querySelectorAll('.js-category').forEach(function (c) { c.checked = true; });
+      clearBtn.addEventListener('click', function (event) {
+        event.preventDefault();
+        document.querySelectorAll('.js-category').forEach(function (c) { c.checked = false; });
         var allLevels = document.getElementById('difficultyAll');
         if (allLevels) allLevels.checked = true;
         if (durationSelect) durationSelect.value = 'any';

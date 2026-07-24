@@ -236,19 +236,22 @@ textarea:focus-visible {
 }
 .footer-links a:hover { color: var(--red-light); }
 
-.footer-social { display: flex; gap: 10px; }
-.footer-social a {
-  width: 38px;
-  height: 38px;
-  border: 1px solid var(--gray-700);
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: background var(--transition), border-color var(--transition);
+.footer-social { display: flex; gap: 20px; }
+
+.footer-social a img {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
 }
-.footer-social a:hover { background: var(--red); border-color: var(--red); }
-.footer-social svg { width: 16px; height: 16px; fill: var(--white); }
+
+.footer-social a {
+    display: inline-flex;
+    margin: 0 8px;
+}
+
+.footer-social a:hover img {
+    transform: scale(1.1);
+}
 
 .footer-bottom {
   border-top: 1px solid var(--gray-900);

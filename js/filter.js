@@ -25,7 +25,7 @@
       }
 
       applyFiltersFromURL();
-      renderPlans(allPlans);
+      applyFilters();
       bindFilterEvents();
     })
     .catch(function (err) {

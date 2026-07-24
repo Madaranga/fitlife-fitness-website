@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fitnessPlans>
+  <plan>
+    <name>Lean &amp; Tone Workout</name>
+    <category>weight-loss</category>
+    <categoryLabel>Weight Loss</categoryLabel>
+    <duration>8 Weeks</duration>
+    <difficulty>Beginner</difficulty>
+    <goal>Burn fat and tone muscle through structured circuit training.</goal>
+  </plan>
+
+  <plan>
+    <name>Hypertrophy Blueprint</name>
+    <category>muscle-gain</category>
+    <categoryLabel>Muscle Gain</categoryLabel>
+    <duration>12 Weeks</duration>
+    <difficulty>Intermediate</difficulty>
+    <goal>Build strength and mass with progressive resistance training.</goal>
+  </plan>
+
+  <plan>
+    <name>HIIT Cardio Burn</name>
+    <category>cardio</category>
+    <categoryLabel>Cardio</categoryLabel>
+    <duration>4 Weeks</duration>
+    <difficulty>Advanced</difficulty>
+    <goal>Maximise calorie burn with high-intensity interval training.</goal>
+  </plan>
+
+  <plan>
+    <name>Mobility &amp; Yoga Flow</name>
+    <category>flexibility</category>
+    <categoryLabel>Flexibility</categoryLabel>
+    <duration>8 Weeks</duration>
+    <difficulty>Beginner</difficulty>
+    <goal>Enhance flexibility, posture and joint mobility.</goal>
+  </plan>
+
+  <plan>
+    <name>Powerlifting Essentials</name>
+    <category>muscle-gain</category>
+    <categoryLabel>Muscle Gain</categoryLabel>
+    <duration>8 Weeks</duration>
+    <difficulty>Advanced</difficulty>
+    <goal>Increase compound lift performance safely and progressively.</goal>
+  </plan>
+
+  <plan>
+    <name>Endurance Runner</name>
+    <category>cardio</category>
+    <categoryLabel>Cardio</categoryLabel>
+    <duration>8 Weeks</duration>
+    <difficulty>Intermediate</difficulty>
+    <goal>Train aerobic capacity and pacing for distance running.</goal>
+  </plan>
+</fitnessPlans>

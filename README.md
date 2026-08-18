@@ -4,7 +4,7 @@ A responsive, multi-page web application designed for a fitness center. This pro
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This repository contains the source code for a complete fitness website project (`CW_final`). The website serves as an informational and interactive hub for gym members, offering details on membership plans, facility information, and an online registration portal.
 
@@ -16,7 +16,7 @@ This repository contains the source code for a complete fitness website project 
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```text
 CW_final/
